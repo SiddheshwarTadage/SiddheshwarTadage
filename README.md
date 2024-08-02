@@ -126,9 +126,8 @@
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-  ⦿ Connect with me on [LinkedIn]() 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode]() 🌐 <br>
-  ⦿ Shoot Me an [Email](yashkale402402@gmail.com) 💌 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/siddheshwar-tadage-5b7896249/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](siddheshwartadage@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
@@ -146,4 +145,4 @@
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/siddheshwartadage/count.svg)
