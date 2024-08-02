@@ -8,7 +8,9 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Siddheshwar</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+    Hey, My name is <em>Siddheshwar</em> and Recent BCA graduate proficient in cloud and DevOps technologies. Hands-on experience in deploying and managing applications with Docker, Jenkins, and AWS services, including EC2 and S3. Skilled in creating CI/CD pipelines and automating infrastructure. Passionate about innovation and eager to contribute to and grow in the field of cloud and DevOps engineering.
+
+🤖 :)
   </samp>
   <br/>
 </p>
