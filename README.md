@@ -62,8 +62,6 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
 </p>
-  
-  ## Hashnode Blogs (Expand to View)
 
 <!--<details>
   <summary><b>Tap Me</b></summary>
