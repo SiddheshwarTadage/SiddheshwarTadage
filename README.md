@@ -8,15 +8,13 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Siddheshwar</em> and Recent BCA graduate proficient in cloud and DevOps technologies. Hands-on experience in deploying and managing applications with Docker, Jenkins, and AWS services, including EC2 and S3. Skilled in creating CI/CD pipelines and automating infrastructure. Passionate about innovation and eager to contribute to and grow in the field of cloud and DevOps engineering.
-
-🤖 :)
+    Hey, My name is <em>Siddheshwar</em> and Recent BCA graduate proficient in cloud and DevOps technologies. Hands-on experience in deploying and managing applications with Docker, Jenkins, and AWS services, including EC2 and S3. Skilled in creating CI/CD pipelines and automating infrastructure. Passionate about innovation and eager to contribute to and grow in the field of cloud and DevOps engineering.🤖 :)
   </samp>
   <br/>
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&" alt="yashkale402" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshwarTadage&" alt="SiddheshwarTadage" /></p> 
 
 <a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;"> <a href="/" title="make a gif">
 
@@ -34,12 +32,6 @@
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
@@ -69,22 +61,16 @@
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="65" />
-  </a>
 </p>
   
   ## Hashnode Blogs (Expand to View)
 
-<details>
+<!--<details>
   <summary><b>Tap Me</b></summary>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
- 
+ -->
 <!--
  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
@@ -100,22 +86,22 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddheshwarTadage&theme=2077" alt="SiddheshwarTadage" /></p>
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddheshwarTadage&theme=aura" alt="SiddheshwarTadage" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddheshwarTadage&theme=aura" alt="SiddheshwarTadage" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddheshwarTadage&theme=great_gatsby" alt="SiddheshwarTadage" /></p>
  
 
 </details>
@@ -124,7 +110,7 @@
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
    
-## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+## 📫 How to reach me? <img align="center" src="https://github.com/SiddheshwarTadage/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/siddheshwar-tadage-5b7896249/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](siddheshwartadage@gmail.com) 💌 <br>
